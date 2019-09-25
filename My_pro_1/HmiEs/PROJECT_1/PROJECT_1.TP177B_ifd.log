@@ -1,0 +1,10 @@
+﻿ES2RT linker log file created on Tuesday, 24 September, 2019 16:02:52
+
+Linking...
+User Info - Resource Id [ NrOfTags ], caused in [ LinkerVar ]
+User Warning - Resource Id [ WrongLocationOrSizeInScreen ], containing object type [ VIEW_OCX ]
+User Info - Resource Id [ NumberPowerTags ], caused in [ LinkerLicense ]
+0 errors, 1 warnings - succeeded.
+
+Writing "C:\Users\daad\Desktop\Siemens training\SiemensTraining_ST-PRO2.git\trunk\My_pro_1\HmiEs\PROJECT_1\PROJECT_1.TP177B"...
+Done.
